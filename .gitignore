@@ -29,6 +29,8 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+.DS_Store
+
 builds/**/images/*
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
